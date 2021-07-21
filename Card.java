@@ -1,7 +1,7 @@
 /*
- Creator: Matthew Ayoob
- The Card class creates a card from a suit and value integer.
- */
+Creator: Matthew Ayoob
+The Card class creates a card from a suit and value integer.
+*/
  public class Card
 {
   int value;
